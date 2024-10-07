@@ -1,2 +1,2 @@
-# LovassyAppV5
-Rework of the previous LovassyApp
+# LovassyAppV5 - Documentation
+
